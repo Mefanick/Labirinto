@@ -354,3 +354,5 @@ Para questões sobre código:
 ---
 
 **Desenvolvido com ❤️ para FURB - 2026**
+#   L a b i r i n t o  
+ 
